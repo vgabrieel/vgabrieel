@@ -2,7 +2,7 @@
 
 About me:
 
-> 🔭 I’m currently working on HTML and CSS.
+> 🔭 I’m currently working on Backend.
 
 > 🌱 I’m currently learning English.
 
