@@ -1,16 +1,17 @@
 # Hi there 👋
 
-About me:
+<div align="center">
 
-> 🔭 I’m currently working on Backend.
+  > 🔭 I’m currently working on Backend.
 
-> 🌱 I’m currently learning English.
+  > 🌱 I’m currently learning English.
 
-> ⚡ Fun fact: Chess is my favorite hobby.
+  > ⚡ Fun fact: Chess is my favorite hobby.
 
+</div>
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
