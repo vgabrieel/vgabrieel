@@ -2,11 +2,11 @@
 
 <div align="center">
 
-  > 🔭 I’m currently working on Backend.
+  > 💻 I’m currently studying Backend.
 
   > 🌱 I’m currently learning English.
 
-  > ⚡ Fun fact: Chess is my favorite hobby.
+  > ♟️ Fun fact: Chess is my favorite hobby.
 
 </div>
 <br>
